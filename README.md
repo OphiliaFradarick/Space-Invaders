@@ -1,5 +1,4 @@
 # SPACE INVADERS
 
-# collaboration work 
-
-# OPHILIA and JUGPREET
+## collaboration work 
+### OPHILIA and JUGPREET
